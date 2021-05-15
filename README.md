@@ -12,6 +12,6 @@ there probably is a better way to show you how this looks but for now there is a
 
 
 
-if the fonts dont want to work/load then you will have to manualy install them. go to the hud files then resources -> Fontit and install geosanslight.tff and young.tff
+if the fonts dont work/load then you will have to manualy install them. go to the hud files then resources -> Fontit and install geosanslight.tff and young.tff
 
 if the hud doesnt load after an updated. change the ui version to 4 in info.vdf
