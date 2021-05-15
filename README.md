@@ -2,7 +2,7 @@
 current version of my hud it will be updated/changes will be made when I feel like it. it also has a crosshair pack. its hypnotizes if i remember corretly. you can modily the properties of the hud crosshair in the hud files resources -> crosshair -> crosshair.res  (at the time of this upload/release i have it enabled)
 
 
-there is probably a better way to show you how this thing looks but this will do for now(theres a folder called pictures)  
+there probably is a better way to show you how this looks but for now there is a pictures folder
 
 
 
