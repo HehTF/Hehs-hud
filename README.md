@@ -10,3 +10,22 @@ An idea what this hud looks like so you dont have to waste your time looking tho
 
 
 ![normal hp and ammo](https://user-images.githubusercontent.com/49131909/118360084-be711e80-b58e-11eb-8262-e71b4c834603.png)
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Troubleshooting 
+
+
+
+if the fonts dont work/load then you will have to manualy install them. go to the hud files then resources -> Fontit and install geosanslight.tff and young.tff
+
+if the hud doesnt load after an updated. change the ui version to 4 in info.vdf
