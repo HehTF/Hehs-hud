@@ -36,3 +36,6 @@ if the fonts dont work/load then you will have to manualy install them. go to th
 if the hud doesnt load after an updated. change the ui version to 4 in info.vdf
 
 That RM button on the mainmenu is for reloading the Mainmenu(cant be botherd to take the hud editing tools out so th RM button will stay for now)
+
+
+one more thing you want to edit this hud go for it IDC, but if you publish the edited version to other websites just be a decent person, dont claim it as your own and include the fact that it is an edited version of this hud. TY for your time.
