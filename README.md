@@ -9,6 +9,13 @@ there probably is a better way to show you how this looks but for now there is a
 An idea what this hud looks like so you dont have to waste your time looking thorugh the pictures section/downloading it and then doing it.
 
 
+
+
+
+
+
+
+
 ![normal hp and ammo](https://user-images.githubusercontent.com/49131909/118360084-be711e80-b58e-11eb-8262-e71b4c834603.png)
 
 
