@@ -1,4 +1,4 @@
-# Hehs-hud
+# Heh's hud
 current version of my hud it will be updated/changes will be made when I feel like it. it also has a crosshair pack. its hypnotizes if i remember corretly. you can modily the properties of the hud crosshair in the hud files resources -> crosshair -> crosshair.res  (at the time of this upload/release i have it enabled)
 
 
@@ -38,4 +38,4 @@ if the hud doesnt load after an updated. change the ui version to 4 in info.vdf
 That RM button on the mainmenu is for reloading the Mainmenu(cant be botherd to take the hud editing tools out so th RM button will stay for now)
 
 
-one more thing you want to edit this hud go for it IDC, but if you publish the edited version to other websites just be a decent person, dont claim it as your own and include the fact that it is an edited version of this hud. TY for your time.
+one more thing if you want to edit this hud go for it IDC, but if you publish the edited version to other websites then just be a decent person, dont claim it as your own and include the fact that it is an edited version of this hud. TY for your time.
