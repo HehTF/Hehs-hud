@@ -27,7 +27,7 @@ the picture folder has more pics, i know what a surprise.
 
 
 
-                                                          Troubleshooting?
+                                                          knowledge that you might find useful
 
 
 
@@ -37,5 +37,7 @@ if the hud doesnt load after an update then, change the ui version to 4 in info.
 
 That RM button on the mainmenu is for reloading it(cant be botherd to take the hud editing tools out/disable it so the RM button will stay for now)
 
-
 one more thing if you want to edit this hud go for it IDC, but if you publish the edited or this one to other websites then just be a decent person, dont claim it as your own.
+
+
+
